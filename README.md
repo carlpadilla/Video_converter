@@ -20,8 +20,8 @@ This video converter is a Python-based application that utilizes GPU acceleratio
 
 1. Install Python 3 from the official website: https://www.python.org/downloads/
 2. Install PyQt5 using pip:
-```bash
-pip install PyQt5
+
+`pip install PyQt5`
 
 ## Usage
 
@@ -30,5 +30,5 @@ pip install PyQt5
 
 `python video_converter.py`
 
-    The video converter application will open. Use the GUI to select a video file, choose the desired conversion speed, and specify the output directory.
-    Click the "Start conversion" button to begin the conversion process.
+The video converter application will open. Use the GUI to select a video file, choose the desired conversion speed, and specify the output directory.
+Click the "Start conversion" button to begin the conversion process.
