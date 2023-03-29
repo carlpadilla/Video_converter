@@ -32,3 +32,6 @@ This video converter is a Python-based application that utilizes GPU acceleratio
 
 The video converter application will open. Use the GUI to select a video file, choose the desired conversion speed, and specify the output directory.
 Click the "Start conversion" button to begin the conversion process.
+
+
+This nifty Python app harnesses the power of GPU acceleration and the versatility of ffmpeg to provide a user-friendly video conversion experience. Its intuitive PyQt5-based GUI offers a seamless way to convert videos to H265 format while keeping users informed with a progress bar and customizable conversion speeds.
