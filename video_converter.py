@@ -138,6 +138,7 @@ class VideoConverter(QMainWindow):
 
     def conversion_finished(self):
         self.start_button.setEnabled(True)
+        self.progress_bar.setValue(100)
         QMessageBox.information(
             self, "Conversion complete", "Video conversion completed successfully!")
 
